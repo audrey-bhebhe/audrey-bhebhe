@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Audrey
 
-<!--
-**audrey-bhebhe/audrey-bhebhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer based in Cape Town, South Africa.
 
-Here are some ideas to get you started:
+I enjoy learning technology and building small projects that solve real problems.  
+Currently improving my skills in programming and working toward my first role in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Java
+- C#
+- HTML & CSS
+- JavaScript
+- MySQL
+
+---
+
+## 🎯 Goals
+- Gain real-world experience in IT / Software Development
+- Build useful applications
+- Grow into a professional developer
+
+---
+
+## 📫 Contact
+Email: audreyjanebhebhe@gmail.com
+LinkedIn: https://www.linkedin.com/in/audr
