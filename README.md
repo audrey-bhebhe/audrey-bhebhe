@@ -25,4 +25,4 @@ Currently improving my skills in programming and working toward my first role in
 
 ## 📫 Contact
 Email: audreyjanebhebhe@gmail.com
-LinkedIn: https://www.linkedin.com/in/audr
+LinkedIn: https://www.linkedin.com/in/audrey-bhebhe-72b764221?trk=contact-info
